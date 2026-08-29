@@ -1,325 +1,528 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HERO                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+````md
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,50:111111,100:222222&text=AMIT&fontColor=ffffff&fontSize=80&fontAlignY=38&desc=BUILDING%20WHAT%20SHOULDN'T%20BE%20POSSIBLE&descAlignY=63&descSize=17" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=AI+%E2%80%A2+PRODUCT+%E2%80%A2+ENGINEERING;Building+products%2C+not+just+projects.;Turning+ambitious+ideas+into+working+systems.;Currently+building+Vibeesta+%F0%9F%9A%80" />
+
+<br><br>
+
+<a href="https://vibeesta.com">
+<img src="https://img.shields.io/badge/🌐_VIBEESTA-111111?style=for-the-badge"/>
+</a>
+<a href="https://www.linkedin.com/in/amitvista">
+<img src="https://img.shields.io/badge/💼_LINKEDIN-111111?style=for-the-badge"/>
+</a>
+<a href="https://www.instagram.com/amitvista">
+<img src="https://img.shields.io/badge/📸_INSTAGRAM-111111?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=amitvista&label=PROFILE%20VIEWS&style=for-the-badge&color=111111"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,100:1f1f1f&text=AMIT&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=AI%20%7C%20PRODUCT%20%7C%20ENGINEERING&descAlignY=62&descSize=18" width="100%"/>
+# 👋 AMIT
 
-<br/>
+### Student • Builder • Product Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+products%2C+not+just+projects.;Exploring+AI+%C3%97+Engineering+%C3%97+Innovation.;Turning+ambitious+ideas+into+working+systems.;Currently+building+Vibeesta+%F0%9F%9A%80" />
+<br>
 
-<br/><br/>
+> **I don't just want to use technology.**
+>
+> **I want to see what it can become.**
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_VIBEESTA_URL">
-<img src="https://img.shields.io/badge/VIBEESTA-111111?style=for-the-badge&logoColor=white"/>
+</div>
+
+---
+
+<div align="center">
+
+# 🧠 MY WORLD
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🤖
+
+**ARTIFICIAL**  
+**INTELLIGENCE**
+
+LLMs  
+GenAI  
+Computer Vision  
+Multimodal AI
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔗
+
+**AGENTIC**  
+**SYSTEMS**
+
+Agents  
+RAG  
+Tool Calling  
+Multi-Agent
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛰️
+
+**SPACE &**  
+**GEOSPATIAL**
+
+Satellite  
+Remote Sensing  
+GIS  
+Spatial AI
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌍
+
+**INTERACTIVE**  
+**TECH**
+
+3D  
+WebGL  
+Maps  
+Visualization
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🚀 BUILDING RIGHT NOW
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:111111,100:222222&text=VIBEESTA&fontColor=ffffff&fontSize=48&fontAlignY=55" width="90%"/>
+
+<br><br>
+
+### DISCOVER  •  SHARE  •  EXPERIENCE
+
+</div>
+
+I'm building **Vibeesta** — a product around events, experiences,
+discovery and community.
+
+<div align="center">
+
+| 🎯 PRODUCT | ⚡ ENGINEERING | 🎨 EXPERIENCE | 📈 GROWTH |
+|:---:|:---:|:---:|:---:|
+| Ideas | Full Stack | UI / UX | Community |
+| Strategy | AI | Design | Experiments |
+| Users | Systems | Interaction | Distribution |
+
+<br>
+
+<a href="https://vibeesta.com">
+<img src="https://img.shields.io/badge/EXPLORE_VIBEESTA-000000?style=for-the-badge"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+# ⚡ TECHNOLOGY
 
-## `> whoami`
+<div align="center">
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
+
+<br><br>
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&theme=dark"/>
+
+<br><br>
+
+### BACKEND / DATABASE / CLOUD
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,docker,vercel&theme=dark"/>
+
+<br><br>
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/>
+
+</div>
+
+---
+
+# 🔬 CURRENTLY EXPLORING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AGENTIC_AI-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GENERATIVE_AI-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MULTIMODAL_AI-000000?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/COMPUTER_VISION-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GEOSPATIAL_AI-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REMOTE_SENSING-000000?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/SATELLITE_DATA-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/3D-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WEBGL-000000?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🧩 HOW I BUILD
+
+</div>
+
+<br>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="55%">
+<td align="center">💡<br><b>PROBLEM</b></td>
+<td>→</td>
+<td align="center">🔎<br><b>RESEARCH</b></td>
+<td>→</td>
+<td align="center">🏗️<br><b>ARCHITECTURE</b></td>
+<td>→</td>
+<td align="center">💻<br><b>BUILD</b></td>
+<td>→</td>
+<td align="center">🚀<br><b>SHIP</b></td>
+</tr>
+</table>
 
-### Hey, I'm Amit.
+<br>
 
-I'm a **student + builder** interested in turning difficult problems
-into products that people can actually use.
+### I start with the problem — not the technology.
 
-I enjoy working at the intersection of:
+<br>
 
-**Artificial Intelligence**  
-**Product Engineering**  
-**Geospatial Technology**  
-**Interactive Experiences**
+<img src="https://img.shields.io/badge/COMPLEXITY_SHOULD_CREATE_CAPABILITY-111111?style=for-the-badge"/>
 
-I'm especially interested in systems that combine multiple technologies
-instead of solving everything with a single API.
-
-```text
-Problem
-   ↓
-Data
-   ↓
-Intelligence
-   ↓
-Reasoning
-   ↓
-Engineering
-   ↓
-Product
-   ↓
-Impact
-</td> <td width="45%" align="center"> <img src="YOUR_PHOTO_URL" width="300"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=000000&style=flat-square"/> </td> </tr> </table>
-🚀 Currently Building
-<div align="center">
-🟣 V I B E E S T A
-Discover • Share • Experience
 </div>
 
-Vibeesta is a product I'm building around events, experiences,
-discovery and community.
+---
 
-I'm interested in building it as a real product, not just a
-portfolio project.
+# 🛰️ THE INTERSECTION
 
-                 VIBEESTA
-                    │
-        ┌───────────┼───────────┐
-        ↓           ↓           ↓
-     Discover     Share      Experience
-        │           │           │
-        └───────────┼───────────┘
-                    ↓
-               Community
-What I'm working on
-🎯 Product experience
-⚡ Full-stack engineering
-🧠 Intelligent features
-🎨 User experience
-🌐 Community
-📈 Growth & experimentation
-<div align="center"> <a href="YOUR_VIBEESTA_URL"> <img src="https://img.shields.io/badge/EXPLORE_VIBEESTA-000000?style=for-the-badge&logoColor=white"/> </a> </div>
-🧠 My Playground
-<div align="center"> <table> <tr> <td align="center" width="25%">
-🤖
+<div align="center">
 
-AI
+<br>
 
-ML
-GenAI
+```text
+                         AI
+                         ▲
+                        / \
+                       /   \
+                      /     \
+                     /       \
+                    /         \
+                   /           \
+                  ▼             ▼
+             PRODUCT ─────── DATA
+                  ▲             ▲
+                   \           /
+                    \         /
+                     \       /
+                      \     /
+                       \   /
+                        \ /
+                         ▼
+                  REAL-WORLD IMPACT
+````
+
+<br>
+
+### AI × REAL-WORLD DATA × PRODUCT × ENGINEERING
+
+</div>
+
+---
+
+# 🏆 HACKATHON MODE
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/IDEA-111111?style=for-the-badge"/>
+➜
+<img src="https://img.shields.io/badge/RESEARCH-111111?style=for-the-badge"/>
+➜
+<img src="https://img.shields.io/badge/ARCHITECTURE-111111?style=for-the-badge"/>
+➜
+<img src="https://img.shields.io/badge/BUILD-111111?style=for-the-badge"/>
+➜
+<img src="https://img.shields.io/badge/DEMO-111111?style=for-the-badge"/>
+
+<br><br>
+
+I enjoy technically ambitious problems where the solution isn't obvious.
+
+<br>
+
+**AI • GenAI • Agents • Computer Vision • Space • Geospatial Intelligence**
+
+<br><br>
+
+> ### The goal isn't just:
+>
+> **"It works."**
+>
+> ### The goal is:
+>
+> **"How did you build that?"**
+
+</div>
+
+---
+
+# 🔥 SELECTED WORK
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+# 🟣
+
+## VIBEESTA
+
+**PRODUCT • STARTUP**
+
+Events
+Experiences
+Community
+
+<br>
+
+`FULL STACK` `PRODUCT` `AI`
+
+<br>
+
+<a href="https://vibeesta.com">
+<img src="https://img.shields.io/badge/LIVE-000000?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+# 🤖
+
+## AI SYSTEMS
+
+**AI • GENAI**
+
 LLMs
-Computer Vision
-
-</td> <td align="center" width="25%">
-🧠
-
-AGENTS
-
+Agents
 RAG
-Tool Calling
-Multi-Agent
-AI Workflows
+Multimodal AI
 
-</td> <td align="center" width="25%">
-🛰️
+<br>
 
-GEO
+`PYTHON` `AI` `AGENTS`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+# 🛰️
+
+## GEOSPATIAL AI
+
+**SPACE • AI**
 
 Satellite
 Remote Sensing
 GIS
-Spatial AI
+Computer Vision
 
-</td> <td align="center" width="25%">
-🌍
+<br>
 
-3D
+`CV` `GEOAI` `SATELLITE`
 
-WebGL
-3D Interfaces
-Visualization
-Interactive Maps
+</td>
 
-</td> </tr> </table> </div>
-⚡ Tech Stack
-<div align="center">
-AI / ML
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+<td width="50%" align="center">
 
-<br/><br/>
+# 🧪
 
-Frontend
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&theme=dark" />
+## EXPERIMENTS
 
-<br/><br/>
+**PROTOTYPES**
 
-Backend / Database / Cloud
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,docker,vercel&theme=dark" />
+New technologies
+Unusual ideas
+Rapid builds
 
-<br/><br/>
+<br>
 
-Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" /> </div>
-🔬 What I'm Exploring
-<div align="center">
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   🤖 AGENTIC AI        🛰️ GEOSPATIAL AI                ║
-║                                                          ║
-║   🧠 MULTIMODAL AI     👁️ COMPUTER VISION              ║
-║                                                          ║
-║   🌍 3D / WEBGL        ⚡ REAL-TIME SYSTEMS             ║
-║                                                          ║
-║   🧪 EXPERIMENTAL TECH 🚀 PRODUCT ENGINEERING           ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-</div>
-🧩 How I Build
+`BUILD` `BREAK` `LEARN`
 
-I don't start with:
+</td>
 
-"Which technology should I use?"
+</tr>
+</table>
 
-I start with:
-
-"What is actually broken?"
-
-Then:
-
-             ┌──────────────────┐
-             │   REAL PROBLEM   │
-             └────────┬─────────┘
-                      ↓
-             ┌──────────────────┐
-             │      DATA        │
-             └────────┬─────────┘
-                      ↓
-          ┌────────────────────────┐
-          │      AI / ML / LLM     │
-          └────────────┬───────────┘
-                       ↓
-             ┌──────────────────┐
-             │    REASONING     │
-             └────────┬─────────┘
-                      ↓
-             ┌──────────────────┐
-             │   ENGINEERING    │
-             └────────┬─────────┘
-                      ↓
-             ┌──────────────────┐
-             │     PRODUCT      │
-             └────────┬─────────┘
-                      ↓
-                REAL IMPACT
-My rule:
-
-Complexity should create capability, not decoration.
-
-🏆 Featured Projects
-<div align="center"> <table> <tr> <td width="50%">
-🟣 Vibeesta
-
-Product / Startup
-
-A platform built around events,
-experiences and community.
-
-Focus
-
-Product Full Stack Community
-
-</td> <td width="50%">
-🤖 AI Systems
-
-AI / GenAI
-
-Experiments with intelligent
-systems, LLMs, agents and
-multimodal AI.
-
-Focus
-
-LLM Agents RAG AI
-
-</td> </tr> <tr> <td width="50%">
-🛰️ Geospatial Intelligence
-
-Space / AI
-
-Exploring satellite imagery,
-remote sensing and spatial
-intelligence.
-
-Focus
-
-Satellite GIS CV AI
-
-</td> <td width="50%">
-🧪 Experiments
-
-Research / Prototype
-
-Ideas built simply because
-the question was:
-
-Can this actually be built?
-
-Focus
-
-Experiments Web 3D AI
-
-</td> </tr> </table> </div>
-🧠 Hackathon Mode
-
-I like hackathons because they compress the entire process into one
-short loop:
-
-<div align="center">
-💡 IDEA
-   ↓
-🔎 RESEARCH
-   ↓
-🏗️ ARCHITECTURE
-   ↓
-💻 BUILD
-   ↓
-🧠 INTELLIGENCE
-   ↓
-🎨 PRODUCT
-   ↓
-🚀 DEMO
 </div>
 
-I'm particularly interested in technically ambitious problems around:
+---
 
-AI · GenAI · Agents · Computer Vision · Space · Geospatial Intelligence · Government Technology
+# 📊 GITHUB
 
-The objective isn't simply:
+<div align="center">
 
-"It works."
+<img src="https://github-readme-stats.vercel.app/api?username=amitvista&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true" height="170"/>
 
-The objective is:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitvista&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&langs_count=8" height="170"/>
 
-"How the hell did you build that?"
+<br><br>
 
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&langs_count=8" height="170"/> </div> <br/> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=666666" width="70%"/> </div>
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/> </div>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/> </div>
-🎯 2026
-[████████████████████░░░░░░░░░░]  BUILDING
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amitvista&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=666666" width="70%"/>
 
-→ Ship more real products
-→ Build deeper AI systems
-→ Explore geospatial intelligence
-→ Experiment with ambitious technology
-→ Get better at system architecture
-→ Turn ideas into working products
-📫 Let's Connect
-<div align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> <a href="YOUR_VIBEESTA_URL"> <img src="https://img.shields.io/badge/VIBEESTA-000000?style=for-the-badge&logoColor=white"/> </a> </div> <br/> <div align="center">
-Building > Talking.
-<br/> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1f1f1f,100:0f0f0f"/> </div> ```
+</div>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitvista&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/amitvista/amitvista/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+# 🎯 2026
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### 🚀
+
+**BUILD**
+
+Real Products
+
+</td>
+
+<td align="center">
+
+### 🤖
+
+**GO DEEP**
+
+AI Systems
+
+</td>
+
+<td align="center">
+
+### 🛰️
+
+**EXPLORE**
+
+Geospatial AI
+
+</td>
+
+<td align="center">
+
+### 🧪
+
+**EXPERIMENT**
+
+New Technology
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/BUILD-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEARN-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHIP-111111?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📫 CONNECT
+
+<a href="https://vibeesta.com">
+<img src="https://img.shields.io/badge/🌐_VIBEESTA.COM-000000?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amitvista">
+<img src="https://img.shields.io/badge/💼_LINKEDIN-000000?style=for-the-badge"/>
+</a>
+
+<a href="https://www.instagram.com/amitvista">
+<img src="https://img.shields.io/badge/📸_INSTAGRAM-000000?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+### **BUILDING > TALKING.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:222222,100:000000"/>
+
+</div>
+```
