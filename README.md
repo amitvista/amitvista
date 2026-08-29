@@ -1,19 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,50:101010,100:252525&text=AMIT&fontColor=ffffff&fontSize=85&fontAlignY=38&desc=AI%20%E2%80%A2%20PRODUCT%20%E2%80%A2%20ENGINEERING&descAlignY=63&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,50:111111,100:252525&text=AMIT&fontColor=ffffff&fontSize=85&fontAlignY=38&desc=AI%20%E2%80%A2%20PRODUCT%20%E2%80%A2%20ENGINEERING&descAlignY=63&descSize=18" width="100%"/>
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Building+products%2C+not+just+projects.;AI+%C3%97+Engineering+%C3%97+Innovation.;Turning+ambitious+ideas+into+working+systems.;Founder+%40+Vibeesta+%F0%9F%9A%80" />
 
 <br><br>
 
 <a href="https://vibeesta.com">
-<img src="https://img.shields.io/badge/VIBEESTA-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIBEESTA-000000?style=for-the-badge"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/amitvista">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.instagram.com/amitvista">
 <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
@@ -24,11 +26,11 @@
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-## `AMITVISTA`
+# 👋 AMIT
 
 ### Student · Builder · Founder · Problem Solver
 
@@ -36,22 +38,29 @@
 
 **I build things at the intersection of AI, engineering and real-world problems.**
 
+<br>
+
+> **I don't just want to use technology.**
+>
+> **I want to see what it can become.**
+
 </div>
 
 ---
 
-<div align="center">
-
 # 🧠 THE STACK OF MY MIND
+
+<div align="center">
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 🤖
 
-**ARTIFICIAL**  
-**INTELLIGENCE**
+## ARTIFICIAL
+## INTELLIGENCE
 
 LLMs  
 GenAI  
@@ -64,8 +73,8 @@ Multimodal AI
 
 ### 🧠
 
-**AGENTIC**  
-**SYSTEMS**
+## AGENTIC
+## SYSTEMS
 
 AI Agents  
 RAG  
@@ -78,8 +87,8 @@ Multi-Agent
 
 ### 🛰️
 
-**SPACE &**  
-**GEOSPATIAL**
+## SPACE &
+## GEOSPATIAL
 
 Satellite  
 Remote Sensing  
@@ -92,8 +101,8 @@ Spatial AI
 
 ### 🌍
 
-**INTERACTIVE**  
-**TECHNOLOGY**
+## INTERACTIVE
+## TECHNOLOGY
 
 3D  
 WebGL  
@@ -101,6 +110,7 @@ Maps
 Visualization
 
 </td>
+
 </tr>
 </table>
 
@@ -126,9 +136,9 @@ Visualization
 
 <br>
 
-**Vibeesta** is a product I'm building around **events, experiences, discovery and community**.
+I'm building **Vibeesta** around **events, experiences, discovery and community**.
 
-I'm interested in taking it beyond a conventional event platform and building a product where technology actually improves how people discover and experience things.
+The goal is to make discovering experiences more social, engaging and useful.
 
 <div align="center">
 
@@ -146,7 +156,7 @@ I'm interested in taking it beyond a conventional event platform and building a 
 
 <div align="center">
 
-### LANGUAGES & CORE
+### LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark"/>
 
@@ -158,7 +168,7 @@ I'm interested in taking it beyond a conventional event platform and building a 
 
 <br><br>
 
-### BACKEND · DATABASE · INFRASTRUCTURE
+### BACKEND · DATABASE · CLOUD
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,docker,vercel&theme=dark"/>
 
@@ -178,11 +188,9 @@ I'm interested in taking it beyond a conventional event platform and building a 
 
 ---
 
-<div align="center">
-
 # 🔬 CURRENTLY EXPLORING
 
-<br>
+<div align="center">
 
 <img src="https://img.shields.io/badge/AGENTIC_AI-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GENERATIVE_AI-111111?style=for-the-badge"/>
@@ -210,40 +218,40 @@ I'm interested in taking it beyond a conventional event platform and building a 
 
 <table>
 <tr>
+
 <td align="center">
-
-### 💡
-**PROBLEM**
-
+💡<br>
+<b>PROBLEM</b>
 </td>
+
 <td>→</td>
+
 <td align="center">
-
-### 🔎
-**RESEARCH**
-
+🔎<br>
+<b>RESEARCH</b>
 </td>
+
 <td>→</td>
+
 <td align="center">
-
-### 🏗️
-**ARCHITECTURE**
-
+🏗️<br>
+<b>ARCHITECTURE</b>
 </td>
+
 <td>→</td>
+
 <td align="center">
-
-### 💻
-**BUILD**
-
+💻<br>
+<b>BUILD</b>
 </td>
+
 <td>→</td>
+
 <td align="center">
-
-### 🚀
-**SHIP**
-
+🚀<br>
+<b>SHIP</b>
 </td>
+
 </tr>
 </table>
 
@@ -259,18 +267,16 @@ I'm interested in taking it beyond a conventional event platform and building a 
 
 ---
 
+# 🛰️ THE INTERSECTION
+
 <div align="center">
-
-# 🛰️ WHERE I'M GOING DEEP
-
-<br>
 
 <table>
 <tr>
+
 <td align="center">
 
-🤖  
-### AI
+### 🤖 AI
 
 LLMs  
 GenAI  
@@ -280,8 +286,7 @@ Multimodal
 
 <td align="center">
 
-🧠  
-### AGENTS
+### 🧠 AGENTS
 
 RAG  
 Tools  
@@ -291,8 +296,7 @@ Reasoning
 
 <td align="center">
 
-👁️  
-### VISION
+### 👁️ VISION
 
 Detection  
 Segmentation  
@@ -302,16 +306,20 @@ Analysis
 
 <td align="center">
 
-🛰️  
-### GEO
+### 🛰️ GEO
 
 Satellite  
 GIS  
 Remote Sensing
 
 </td>
+
 </tr>
 </table>
+
+<br>
+
+### AI × REAL-WORLD DATA × PRODUCT × ENGINEERING
 
 </div>
 
@@ -341,8 +349,8 @@ Remote Sensing
 
 <br><br>
 
-> ### Don't just make it work.
-> ## Make people ask how it works.
+> ## Don't just make it work.
+> ### Make people ask how it works.
 
 </div>
 
@@ -353,6 +361,7 @@ Remote Sensing
 <div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%" align="center">
@@ -361,9 +370,9 @@ Remote Sensing
 
 ### PRODUCT · STARTUP
 
-**Events**  
-**Experiences**  
-**Community**
+Events  
+Experiences  
+Community
 
 <br>
 
@@ -383,10 +392,10 @@ Remote Sensing
 
 ### AI · GENAI
 
-**LLMs**  
-**Agents**  
-**RAG**  
-**Multimodal AI**
+LLMs  
+Agents  
+RAG  
+Multimodal AI
 
 <br>
 
@@ -404,10 +413,10 @@ Remote Sensing
 
 ### SPACE · AI
 
-**Satellite Imagery**  
-**Remote Sensing**  
-**GIS**  
-**Computer Vision**
+Satellite Imagery  
+Remote Sensing  
+GIS  
+Computer Vision
 
 <br>
 
@@ -421,9 +430,9 @@ Remote Sensing
 
 ### BUILD · BREAK · LEARN
 
-**Prototypes**  
-**New Technologies**  
-**Unusual Ideas**
+Prototypes  
+New Technologies  
+Unusual Ideas
 
 <br>
 
@@ -432,6 +441,7 @@ Remote Sensing
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -442,23 +452,7 @@ Remote Sensing
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amitvista&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitvista&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&langs_count=8" height="180"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amitvista&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=666666" width="75%"/>
-
-</div>
-
----
-
-# 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitvista&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Amit's%20Contribution%20Graph" width="100%"/>
+<img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/>
 
 </div>
 
@@ -468,7 +462,11 @@ Remote Sensing
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amitvista/amitvista/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg">
+  <img src="./github-snake.svg" alt="GitHub Contribution Snake" width="100%">
+</picture>
 
 </div>
 
@@ -479,6 +477,7 @@ Remote Sensing
 <div align="center">
 
 <table>
+
 <tr>
 
 <td align="center" width="25%">
@@ -522,6 +521,7 @@ New Tech
 </td>
 
 </tr>
+
 </table>
 
 <br>
