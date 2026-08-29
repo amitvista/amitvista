@@ -1,27 +1,26 @@
-````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,50:111111,100:222222&text=AMIT&fontColor=ffffff&fontSize=80&fontAlignY=38&desc=BUILDING%20WHAT%20SHOULDN'T%20BE%20POSSIBLE&descAlignY=63&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,50:101010,100:252525&text=AMIT&fontColor=ffffff&fontSize=85&fontAlignY=38&desc=AI%20%E2%80%A2%20PRODUCT%20%E2%80%A2%20ENGINEERING&descAlignY=63&descSize=18" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=AI+%E2%80%A2+PRODUCT+%E2%80%A2+ENGINEERING;Building+products%2C+not+just+projects.;Turning+ambitious+ideas+into+working+systems.;Currently+building+Vibeesta+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Building+products%2C+not+just+projects.;AI+%C3%97+Engineering+%C3%97+Innovation.;Turning+ambitious+ideas+into+working+systems.;Founder+%40+Vibeesta+%F0%9F%9A%80" />
 
 <br><br>
 
 <a href="https://vibeesta.com">
-<img src="https://img.shields.io/badge/🌐_VIBEESTA-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIBEESTA-000000?style=for-the-badge&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/amitvista">
-<img src="https://img.shields.io/badge/💼_LINKEDIN-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.instagram.com/amitvista">
-<img src="https://img.shields.io/badge/📸_INSTAGRAM-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=amitvista&label=PROFILE%20VIEWS&style=for-the-badge&color=111111"/>
+<img src="https://komarev.com/ghpvc/?username=amitvista&label=PROFILE%20VIEWS&style=for-the-badge&color=000000"/>
 
 </div>
 
@@ -29,15 +28,13 @@
 
 <div align="center">
 
-# 👋 AMIT
+## `AMITVISTA`
 
-### Student • Builder • Product Enthusiast
+### Student · Builder · Founder · Problem Solver
 
 <br>
 
-> **I don't just want to use technology.**
->
-> **I want to see what it can become.**
+**I build things at the intersection of AI, engineering and real-world problems.**
 
 </div>
 
@@ -45,9 +42,7 @@
 
 <div align="center">
 
-# 🧠 MY WORLD
-
-<br>
+# 🧠 THE STACK OF MY MIND
 
 <table>
 <tr>
@@ -67,12 +62,12 @@ Multimodal AI
 
 <td align="center" width="25%">
 
-### 🔗
+### 🧠
 
 **AGENTIC**  
 **SYSTEMS**
 
-Agents  
+AI Agents  
 RAG  
 Tool Calling  
 Multi-Agent
@@ -98,7 +93,7 @@ Spatial AI
 ### 🌍
 
 **INTERACTIVE**  
-**TECH**
+**TECHNOLOGY**
 
 3D  
 WebGL  
@@ -113,58 +108,65 @@ Visualization
 
 ---
 
-# 🚀 BUILDING RIGHT NOW
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:111111,100:222222&text=VIBEESTA&fontColor=ffffff&fontSize=48&fontAlignY=55" width="90%"/>
+# 🚀 CURRENTLY BUILDING
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:111111,100:222222&text=VIBEESTA&fontColor=ffffff&fontSize=52&fontAlignY=55" width="85%"/>
 
-### DISCOVER  •  SHARE  •  EXPERIENCE
-
-</div>
-
-I'm building **Vibeesta** — a product around events, experiences,
-discovery and community.
-
-<div align="center">
-
-| 🎯 PRODUCT | ⚡ ENGINEERING | 🎨 EXPERIENCE | 📈 GROWTH |
-|:---:|:---:|:---:|:---:|
-| Ideas | Full Stack | UI / UX | Community |
-| Strategy | AI | Design | Experiments |
-| Users | Systems | Interaction | Distribution |
+### DISCOVER · SHARE · EXPERIENCE
 
 <br>
 
 <a href="https://vibeesta.com">
-<img src="https://img.shields.io/badge/EXPLORE_VIBEESTA-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_VIBEESTA.COM-111111?style=for-the-badge"/>
 </a>
+
+</div>
+
+<br>
+
+**Vibeesta** is a product I'm building around **events, experiences, discovery and community**.
+
+I'm interested in taking it beyond a conventional event platform and building a product where technology actually improves how people discover and experience things.
+
+<div align="center">
+
+| 🎯 PRODUCT | ⚡ ENGINEERING | 🧠 INTELLIGENCE | 🎨 EXPERIENCE |
+|:---:|:---:|:---:|:---:|
+| Strategy | Full Stack | AI | UI / UX |
+| Discovery | Backend | Personalization | Design |
+| Community | APIs | Automation | Interaction |
 
 </div>
 
 ---
 
-# ⚡ TECHNOLOGY
+# ⚙️ TECHNOLOGY
 
 <div align="center">
 
-### AI / ML
+### LANGUAGES & CORE
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark"/>
 
 <br><br>
 
 ### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark"/>
 
 <br><br>
 
-### BACKEND / DATABASE / CLOUD
+### BACKEND · DATABASE · INFRASTRUCTURE
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,docker,vercel&theme=dark"/>
+
+<br><br>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
 
 <br><br>
 
@@ -176,51 +178,72 @@ discovery and community.
 
 ---
 
-# 🔬 CURRENTLY EXPLORING
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/AGENTIC_AI-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GENERATIVE_AI-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MULTIMODAL_AI-000000?style=for-the-badge"/>
+# 🔬 CURRENTLY EXPLORING
 
 <br>
 
-<img src="https://img.shields.io/badge/COMPUTER_VISION-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GEOSPATIAL_AI-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REMOTE_SENSING-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AGENTIC_AI-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GENERATIVE_AI-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MULTIMODAL_AI-111111?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/SATELLITE_DATA-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/3D-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WEBGL-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COMPUTER_VISION-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GEOSPATIAL_AI-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REMOTE_SENSING-111111?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/SATELLITE_DATA-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/3D-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WEBGL-111111?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-# 🧩 HOW I BUILD
-
-</div>
-
-<br>
+# 🧩 HOW I APPROACH A PROBLEM
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center">💡<br><b>PROBLEM</b></td>
+<td align="center">
+
+### 💡
+**PROBLEM**
+
+</td>
 <td>→</td>
-<td align="center">🔎<br><b>RESEARCH</b></td>
+<td align="center">
+
+### 🔎
+**RESEARCH**
+
+</td>
 <td>→</td>
-<td align="center">🏗️<br><b>ARCHITECTURE</b></td>
+<td align="center">
+
+### 🏗️
+**ARCHITECTURE**
+
+</td>
 <td>→</td>
-<td align="center">💻<br><b>BUILD</b></td>
+<td align="center">
+
+### 💻
+**BUILD**
+
+</td>
 <td>→</td>
-<td align="center">🚀<br><b>SHIP</b></td>
+<td align="center">
+
+### 🚀
+**SHIP**
+
+</td>
 </tr>
 </table>
 
@@ -230,43 +253,65 @@ discovery and community.
 
 <br>
 
-<img src="https://img.shields.io/badge/COMPLEXITY_SHOULD_CREATE_CAPABILITY-111111?style=for-the-badge"/>
+> **Complexity should create capability, not decoration.**
 
 </div>
 
 ---
 
-# 🛰️ THE INTERSECTION
-
 <div align="center">
 
-<br>
-
-```text
-                         AI
-                         ▲
-                        / \
-                       /   \
-                      /     \
-                     /       \
-                    /         \
-                   /           \
-                  ▼             ▼
-             PRODUCT ─────── DATA
-                  ▲             ▲
-                   \           /
-                    \         /
-                     \       /
-                      \     /
-                       \   /
-                        \ /
-                         ▼
-                  REAL-WORLD IMPACT
-````
+# 🛰️ WHERE I'M GOING DEEP
 
 <br>
 
-### AI × REAL-WORLD DATA × PRODUCT × ENGINEERING
+<table>
+<tr>
+<td align="center">
+
+🤖  
+### AI
+
+LLMs  
+GenAI  
+Multimodal
+
+</td>
+
+<td align="center">
+
+🧠  
+### AGENTS
+
+RAG  
+Tools  
+Reasoning
+
+</td>
+
+<td align="center">
+
+👁️  
+### VISION
+
+Detection  
+Segmentation  
+Analysis
+
+</td>
+
+<td align="center">
+
+🛰️  
+### GEO
+
+Satellite  
+GIS  
+Remote Sensing
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -276,39 +321,34 @@ discovery and community.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IDEA-111111?style=for-the-badge"/>
-➜
-<img src="https://img.shields.io/badge/RESEARCH-111111?style=for-the-badge"/>
-➜
-<img src="https://img.shields.io/badge/ARCHITECTURE-111111?style=for-the-badge"/>
-➜
-<img src="https://img.shields.io/badge/BUILD-111111?style=for-the-badge"/>
-➜
-<img src="https://img.shields.io/badge/DEMO-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IDEA-000000?style=for-the-badge"/>
+→
+<img src="https://img.shields.io/badge/RESEARCH-000000?style=for-the-badge"/>
+→
+<img src="https://img.shields.io/badge/ARCHITECTURE-000000?style=for-the-badge"/>
+→
+<img src="https://img.shields.io/badge/BUILD-000000?style=for-the-badge"/>
+→
+<img src="https://img.shields.io/badge/DEMO-000000?style=for-the-badge"/>
 
 <br><br>
 
-I enjoy technically ambitious problems where the solution isn't obvious.
+### I like technically ambitious problems.
 
 <br>
 
-**AI • GenAI • Agents • Computer Vision • Space • Geospatial Intelligence**
+**AI · GenAI · Agents · Computer Vision · Space · Geospatial Intelligence · Government Technology**
 
 <br><br>
 
-> ### The goal isn't just:
->
-> **"It works."**
->
-> ### The goal is:
->
-> **"How did you build that?"**
+> ### Don't just make it work.
+> ## Make people ask how it works.
 
 </div>
 
 ---
 
-# 🔥 SELECTED WORK
+# 🔥 PROJECT UNIVERSE
 
 <div align="center">
 
@@ -317,15 +357,13 @@ I enjoy technically ambitious problems where the solution isn't obvious.
 
 <td width="50%" align="center">
 
-# 🟣
+## 🟣 VIBEESTA
 
-## VIBEESTA
+### PRODUCT · STARTUP
 
-**PRODUCT • STARTUP**
-
-Events
-Experiences
-Community
+**Events**  
+**Experiences**  
+**Community**
 
 <br>
 
@@ -334,23 +372,21 @@ Community
 <br>
 
 <a href="https://vibeesta.com">
-<img src="https://img.shields.io/badge/LIVE-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LIVE_PRODUCT-000000?style=for-the-badge"/>
 </a>
 
 </td>
 
 <td width="50%" align="center">
 
-# 🤖
+## 🤖 AI SYSTEMS
 
-## AI SYSTEMS
+### AI · GENAI
 
-**AI • GENAI**
-
-LLMs
-Agents
-RAG
-Multimodal AI
+**LLMs**  
+**Agents**  
+**RAG**  
+**Multimodal AI**
 
 <br>
 
@@ -364,16 +400,14 @@ Multimodal AI
 
 <td width="50%" align="center">
 
-# 🛰️
+## 🛰️ GEOSPATIAL AI
 
-## GEOSPATIAL AI
+### SPACE · AI
 
-**SPACE • AI**
-
-Satellite
-Remote Sensing
-GIS
-Computer Vision
+**Satellite Imagery**  
+**Remote Sensing**  
+**GIS**  
+**Computer Vision**
 
 <br>
 
@@ -383,15 +417,13 @@ Computer Vision
 
 <td width="50%" align="center">
 
-# 🧪
+## 🧪 EXPERIMENTS
 
-## EXPERIMENTS
+### BUILD · BREAK · LEARN
 
-**PROTOTYPES**
-
-New technologies
-Unusual ideas
-Rapid builds
+**Prototypes**  
+**New Technologies**  
+**Unusual Ideas**
 
 <br>
 
@@ -406,27 +438,27 @@ Rapid builds
 
 ---
 
-# 📊 GITHUB
+# 📊 GITHUB PERFORMANCE
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amitvista&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amitvista&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitvista&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitvista&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&langs_count=8" height="180"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amitvista&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=666666" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amitvista&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=666666" width="75%"/>
 
 </div>
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
+# 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitvista&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitvista&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Amit's%20Contribution%20Graph" width="100%"/>
 
 </div>
 
@@ -448,53 +480,55 @@ Rapid builds
 
 <table>
 <tr>
-<td align="center">
 
-### 🚀
+<td align="center" width="25%">
 
-**BUILD**
+## 🚀
+
+### BUILD
 
 Real Products
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-### 🤖
+## 🤖
 
-**GO DEEP**
+### GO DEEP
 
 AI Systems
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-### 🛰️
+## 🛰️
 
-**EXPLORE**
+### EXPLORE
 
 Geospatial AI
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-### 🧪
+## 🧪
 
-**EXPERIMENT**
+### EXPERIMENT
 
-New Technology
+New Tech
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
-<img src="https://img.shields.io/badge/BUILD-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LEARN-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SHIP-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILD-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEARN-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHIP-000000?style=for-the-badge"/>
 
 </div>
 
@@ -502,27 +536,28 @@ New Technology
 
 <div align="center">
 
-# 📫 CONNECT
+# 🌐 CONNECT
+
+<br>
 
 <a href="https://vibeesta.com">
-<img src="https://img.shields.io/badge/🌐_VIBEESTA.COM-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIBEESTA.COM-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/amitvista">
-<img src="https://img.shields.io/badge/💼_LINKEDIN-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/amitvista">
-<img src="https://img.shields.io/badge/📸_INSTAGRAM-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br><br>
 
-### **BUILDING > TALKING.**
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=000000&text=BUILDING%20%3E%20TALKING&fontColor=ffffff&fontSize=25&fontAlignY=55" width="55%"/>
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:222222,100:000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:222222,100:000000" width="100%"/>
 
 </div>
-```
